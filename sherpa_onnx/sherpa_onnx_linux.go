@@ -14,6 +14,7 @@ type OnlineRecognizerResult = sherpa.OnlineRecognizerResult
 type OnlineRecognizer = sherpa.OnlineRecognizer
 type OnlineStream = sherpa.OnlineStream
 type OnlineModelConfig = sherpa.OnlineModelConfig
+type OnlineLMConfig = sherpa.OnlineLMConfig
 
 var NewOnlineRecognizer = sherpa.NewOnlineRecognizer
 var DeleteOnlineRecognizer = sherpa.DeleteOnlineRecognizer
